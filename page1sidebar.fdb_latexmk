@@ -1,0 +1,10 @@
+# Fdb version 3
+["pdflatex"] 1572493181 "page1sidebar.tex" "page1sidebar.pdf" "page1sidebar" 1572493181
+  "/usr/local/texlive/2019/texmf-dist/web2c/texmf.cnf" 1557092114 35484 cb1661360667bf4db662a8895053b554 ""
+  "/usr/local/texlive/2019/texmf-var/web2c/pdftex/pdflatex.fmt" 1557342086 4259635 562fc36ec496993777a6c428d8bfb811 ""
+  "/usr/local/texlive/2019/texmf.cnf" 1557341546 577 d150fef99ac436ad1156e86b0892f6ef ""
+  "page1sidebar.aux" 1572449336 8 a94a2480d3289e625eea47cd1b285758 ""
+  "page1sidebar.tex" 1572493176 1052 5350ea646349f9dd3655411e7bc5f998 ""
+  (generated)
+  "page1sidebar.pdf"
+  "page1sidebar.log"
